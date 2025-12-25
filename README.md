@@ -1,6 +1,6 @@
 # Adaptive AI-Based Traffic Signal Optimization System
 
-**A production-grade final-year B.Tech AI project** demonstrating adaptive traffic control through reinforcement learning, neural networks, and explainable decision-making. This system optimizes multi-intersection signal timings in real-time based on traffic conditions, emergency events, and time-of-day demand patterns.
+**A production-grade AI project** demonstrating adaptive traffic control through reinforcement learning, neural networks, and explainable decision-making. This system optimizes multi-intersection signal timings in real-time based on traffic conditions, emergency events, and time-of-day demand patterns.
 
 ---
 
@@ -407,14 +407,14 @@ MIT License (2025) – See `LICENSE.md` for details.
 
 ## 👤 Author
 
-**Darshit** – Final-Year B.Tech AI Project  
+**Darshit Rangpariya**  
 GitHub: [@Darshit2012](https://github.com/Darshit2012)
 
 ---
 
 ## 🙏 Acknowledgments
 
-This project transforms a legacy 2017 traffic light ANN demo into a modern, production-grade system with:
+This project is a production-grade system with:
 - Adaptive multi-controller architecture
 - Explainability for safety-critical domains
 - Professional Streamlit dashboard
