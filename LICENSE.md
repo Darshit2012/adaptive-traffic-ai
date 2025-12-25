@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 Raymel Francisco, Emilson Olaño, John Paul Magturo, Denzel Rañada, Kaiser Sternberg, and Christian Bisnar
+Copyright (c) 2025 Darshit
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
