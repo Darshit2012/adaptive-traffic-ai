@@ -1,8 +1,6 @@
 # Adaptive AI-Based Traffic Signal Optimization System
 
-**A viva-ready, production-grade final-year B.Tech AI project** demonstrating adaptive traffic control through reinforcement learning, neural networks, and explainable decision-making. This system optimizes multi-intersection signal timings in real-time based on traffic conditions, emergency events, and time-of-day demand patterns.
-
-> **Project Status:** ✅ Complete | Ready for MS applications & viva presentations
+**A production-grade final-year B.Tech AI project** demonstrating adaptive traffic control through reinforcement learning, neural networks, and explainable decision-making. This system optimizes multi-intersection signal timings in real-time based on traffic conditions, emergency events, and time-of-day demand patterns.
 
 ---
 
@@ -129,7 +127,9 @@ state = {
 - Both auto-flip to opposite phase after duration expires
 
 ### Reward Function
-$$r = \text{throughput} - \text{avg\_wait} - 0.3 \times \text{stops}$$
+```
+r = throughput - avg_wait - 0.3 × stops
+```
 
 **Rationale:**
 - Maximizes vehicles served (throughput)
